@@ -12,3 +12,4 @@ C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\refint\TerzoP
 C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\TerzoProgetto.pdb
 C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\TerzoProgetto.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\ref\TerzoProgetto.dll
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\TerzoProgetto.sourcelink.json

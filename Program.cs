@@ -4,6 +4,8 @@ class Program
 {
   static void Main()
   {
-    Console.WriteLine("Keep working on");
+    Console.WriteLine("============================");
+    Console.WriteLine("🍕 MIDNIGHT PIZZA 🍕");
+    Console.WriteLine("============================");
   }
 }
