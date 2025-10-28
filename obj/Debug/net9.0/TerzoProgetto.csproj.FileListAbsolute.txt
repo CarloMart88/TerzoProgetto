@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\TerzoProgetto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\TerzoProgetto.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\TerzoProgetto.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\TerzoProgetto.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\bin\Debug\net9.0\TerzoProgetto.exe
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\bin\Debug\net9.0\TerzoProgetto.deps.json
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\bin\Debug\net9.0\TerzoProgetto.runtimeconfig.json
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\bin\Debug\net9.0\TerzoProgetto.dll
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\bin\Debug\net9.0\TerzoProgetto.pdb
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\TerzoProgetto.dll
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\refint\TerzoProgetto.dll
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\TerzoProgetto.pdb
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\TerzoProgetto.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\video.games\TerzoProgetto\obj\Debug\net9.0\ref\TerzoProgetto.dll
